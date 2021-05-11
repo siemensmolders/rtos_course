@@ -146,6 +146,8 @@ Additional information:
 #include "SEGGER_SYSVIEW_Int.h"
 #include "SEGGER_RTT.h"
 
+#include "usart.h"
+
 /*********************************************************************
 *
 *       Defines, fixed

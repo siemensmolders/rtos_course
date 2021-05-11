@@ -2,3 +2,4 @@
 //org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
 UIActivities.org.eclipse.cdt.debug.dsfgdbActivity=true
 eclipse.preferences.version=1
+org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+F11"/>\n<keyBinding commandId\="org.eclipse.cdt.ui.edit.text.c.uncomment" contextId\="org.eclipse.ui.genericeditor.genericEditorContext" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+\u00D9"/>\n<keyBinding commandId\="org.eclipse.cdt.ui.edit.text.c.comment" contextId\="org.eclipse.ui.genericeditor.genericEditorContext" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+\="/>\n</org.eclipse.ui.commands>

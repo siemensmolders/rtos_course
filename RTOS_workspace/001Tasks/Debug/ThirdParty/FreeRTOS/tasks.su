@@ -27,7 +27,6 @@ tasks.c:2740:12:xTaskIncrementTick	32	static
 tasks.c:3025:6:vTaskSwitchContext	24	static,ignoring_inline_asm
 tasks.c:3101:6:vTaskPlaceOnEventList	16	static
 tasks.c:3119:6:vTaskPlaceOnUnorderedEventList	24	static
-tasks.c:3147:10:vTaskPlaceOnEventListRestricted	24	static
 tasks.c:3180:12:xTaskRemoveFromEventList	24	static
 tasks.c:3248:6:vTaskRemoveFromUnorderedEventList	24	static
 tasks.c:3297:6:vTaskSetTimeOutState	16	static
@@ -46,7 +45,6 @@ tasks.c:3946:11:pxTaskGetStackStart	24	static
 tasks.c:3961:17:prvDeleteTCB	16	static
 tasks.c:4017:13:prvResetNextTaskUnblockTime	4	static
 tasks.c:4040:18:xTaskGetCurrentTaskHandle	16	static
-tasks.c:4057:16:xTaskGetSchedulerState	16	static
 tasks.c:4085:16:xTaskPriorityInherit	24	static
 tasks.c:4176:16:xTaskPriorityDisinherit	24	static
 tasks.c:4257:10:vTaskPriorityDisinheritAfterTimeout	32	static

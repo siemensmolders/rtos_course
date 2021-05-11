@@ -1,36 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="ENABLE"/>
+		<item key="selection" value="huart1"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
-		<item key="isRegEx" value="false"/>
+		<item key="isRegEx" value="true"/>
 		<list key="findhistory">
-			<item value="ENABLE"/>
-			<item value="SEGGER_SYSVIEW_Init"/>
-			<item value="E000"/>
-			<item value="SEGGER_SYSVIEW_Start"/>
-			<item value="init"/>
-			<item value="TIME"/>
-			<item value="Cycle"/>
-			<item value="cycle"/>
-			<item value="SYSVIEW_APP_NAME"/>
-			<item value="SYSVIEW_TIMESTAMP"/>
-			<item value="SYSVIEW_RTT"/>
-			<item value="xTaskGetIdleTaskHandle"/>
-			<item value="SEGGER"/>
-			<item value="ListInsert( pxOverflowDelayedTaskList, &amp;( pxCurrentTCB-"/>
-			<item value="ic void prvDeleteTCB( TCB_t * pxTCB )"/>
+			<item value="huart1"/>
+			<item value="HIF_UART_Init"/>
+			<item value="_cbOnUARTTx"/>
+			<item value="cbOnRx"/>
+			<item value="HIF_UART_WaitForTxEnd"/>
+			<item value="USART_SR"/>
+			<item value="EIE"/>
+			<item value="USART_TXEIE"/>
+			<item value="UART_FLAG_ORE"/>
+			<item value="USART_ISR_ORE"/>
+			<item value="OVERRUN"/>
+			<item value="HAL_"/>
+			<item value="HAL_UART_"/>
+			<item value="HAL_UART_ERROR_ORE"/>
+			<item value="error"/>
 		</list>
 		<list key="replacehistory">
+			<item value="GPIOA_AFRL"/>
+			<item value="GPIOA_AFRH"/>
 			<item value=""/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="1148"/>
-		<item key="DIALOG_Y_ORIGIN" value="366"/>
+		<item key="DIALOG_X_ORIGIN" value="1596"/>
+		<item key="DIALOG_Y_ORIGIN" value="438"/>
 		<item key="DIALOG_WIDTH" value="292"/>
 		<item key="DIALOG_HEIGHT" value="402"/>
 		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>

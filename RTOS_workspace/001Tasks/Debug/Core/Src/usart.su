@@ -1,0 +1,14 @@
+core_cm7.h:1896:22:__NVIC_EnableIRQ	16	static
+core_cm7.h:1932:22:__NVIC_DisableIRQ	16	static,ignoring_inline_asm
+core_cm7.h:2024:22:__NVIC_SetPriority	16	static
+usart.c:56:6:MX_USART1_UART_Init	8	static
+usart.c:87:6:HAL_UART_MspInit	48	static
+usart.c:132:6:HAL_UART_MspDeInit	16	static
+usart.c:164:13:_StartSysView	16	static
+usart.c:173:6:startSysViewCustom	8	static
+usart.c:177:13:_cbOnUARTRx	16	static
+usart.c:188:12:_cbOnUARTTx	24	static
+usart.c:205:6:SEGGER_UART_init	16	static
+usart.c:216:6:HIF_UART_WaitForTxEnd	4	static
+usart.c:225:6:USART1_IRQHandler	16	static
+usart.c:262:6:HIF_UART_EnableTXEInterrupt	4	static

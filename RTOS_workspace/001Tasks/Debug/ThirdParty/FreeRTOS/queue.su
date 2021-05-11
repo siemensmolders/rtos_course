@@ -32,7 +32,6 @@ queue.c:2412:12:xQueueIsQueueFullFromISR	24	static
 queue.c:2721:10:vQueueAddToRegistry	24	static
 queue.c:2751:18:pcQueueGetName	24	static
 queue.c:2780:10:vQueueUnregisterQueue	24	static
-queue.c:2811:10:vQueueWaitForMessageRestricted	32	static
 queue.c:2851:22:xQueueCreateSet	24	static
 queue.c:2865:16:xQueueAddToSet	24	static
 queue.c:2899:16:xQueueRemoveFromSet	24	static
